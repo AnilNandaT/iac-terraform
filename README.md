@@ -1,1 +1,2 @@
-# iac-terraform
+# iac
+Infrastructure code for terraform
